@@ -11,7 +11,7 @@ Part of our code is built based on [NRGNN](https://github.com/EnyanDai/NRGNN) an
 
 ## Cite
 ```
-@inproceedings{10.1145/3539597.3570369,
+@inproceedings{qian2023robust,
 author = {Qian, Siyi and Ying, Haochao and Hu, Renjun and Zhou, Jingbo and Chen, Jintai and Chen, Danny Z. and Wu, Jian},
 title = {Robust Training of Graph Neural Networks via Noise Governance},
 booktitle = {Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
